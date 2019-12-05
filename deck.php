@@ -1,6 +1,6 @@
 <?php
 class Deck {
-	public $cards = array();
+	public $cards;
 
 
 	function show_cards() {
